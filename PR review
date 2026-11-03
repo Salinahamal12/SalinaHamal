@@ -1,0 +1,12 @@
+Salinahamal
+│
+├── .github/
+│   ├── copilot-instructions.md
+│   │
+│   └── prompts/
+│       └── qa-pr-review.prompt.md
+│
+├── Documentation/
+│   └── UserManuals/
+│
+└── Tests/
